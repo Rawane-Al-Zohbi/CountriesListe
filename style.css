@@ -1,0 +1,91 @@
+body{
+    background-color: antiquewhite;
+}
+.N {
+    column-count: 6;
+    font-family: "Sofia", sans-serif; 
+    font-size: 20px;
+    color:black;
+    text-transform: capitalize;
+}
+.F{
+    column-count: 6;
+    font-family: "Sofia", sans-serif; 
+    font-size: 20px;
+    color:black;
+    text-transform: capitalize;
+
+}
+.C{
+    column-count: 6;
+    font-family: "Sofia", sans-serif; 
+    font-size: 20px;
+    color:black;
+    text-transform: capitalize;
+
+}
+.R{
+    column-count: 6;
+    font-family: "Sofia", sans-serif; 
+    font-size: 20px;
+    color:black;
+    text-transform: capitalize;
+}
+#text{
+    background-color: bisque;
+    color:black;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration-color: blueviolet ;
+    /*text-decoration-line:underline overline;*/
+    font-family: "Sofia", sans-serif; 
+    text-shadow: 4px 4px 2px rgb(113, 43, 226);
+    font-size: 30px;
+}
+#image{
+    width:1700px;  
+    height: 250px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(113, 43, 226);;
+}
+#names{
+    font-family: "Sofia", sans-serif; 
+    font-size: 40px;
+    color:black;
+    text-transform: capitalize;
+    text-align:left;
+    text-decoration: underline ;
+}
+
+#countries{
+    font-size: 25px;
+    color: black;
+}
+#select{
+    font-family: "Sofia", sans-serif; 
+    font-size: 40px;
+    color:black;
+    text-transform: capitalize;
+    text-align:center;
+    text-decoration: underline ;
+        
+}
+table, th, td {
+    border: 1px solid;
+    
+  }
+ #table{
+    background-color: bisque;
+    color:black;
+    text-transform: capitalize;
+    text-align: left;
+    font-family: "Sofia", sans-serif; 
+    font-size: 35px;
+ }
+#im{
+    width:30px;  
+    height: 20px;
+    border-style: solid;
+    border-radius: 20px;
+}
